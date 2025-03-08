@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Permanent Marker';
+    font-size: 100px;
+    color: #D8DF4B;
+
+}
+img{
+    height: 300px;
+    border-radius: 100%;
+    border: solid 3px #D8DF4B;
+    /* box-shadow: 15px 3px 15px 2px black; */
+
+}
+
+
+.mob{
+
+}
