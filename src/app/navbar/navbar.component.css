@@ -1,0 +1,41 @@
+.nav-link-mine:hover{
+    cursor: default;
+    }
+    
+    .underline{
+        position: relative;
+        transition: all 0.4s;
+    }
+    
+    .underline:hover::after{
+        width: 100%;
+        transition: 0.3s;
+        
+    }
+    
+    .underline::after{
+        content: "";
+        height: 3px;
+        width: 0%;
+    
+        position: absolute;
+        background: #D8DF4B;
+        left: 0;
+        bottom: -8px;
+    
+    
+    }
+    
+    
+    a{
+        color: white;
+    }
+    
+    a:hover{
+        color: #D8DF4B;;
+    }
+
+
+    img{
+        height: 80px;
+    }
